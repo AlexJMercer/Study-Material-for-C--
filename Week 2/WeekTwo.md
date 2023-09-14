@@ -72,10 +72,10 @@
 >
 > In the above image, `j` has the same memory address as `i`. Thus, `j` is an alias for `i`. 
 >
-> **NOTE :** Pointers, `xPtr`, hold memory addresses, while references, `&xRef`, are aliases for existing variables. We can `point` to the contents of a memory location using `*xPtr` or even `*(&xRef)`. 
+> **NOTE :** Pointers, `xPtr`, or `&x` hold memory addresses, while references, `&xRef`, are aliases for existing variables. We can `point` to the contents of a memory location using `*xPtr` or even `*(&xRef)`. 
 >
-> Click on the link below to see the code for references and pointers.
+> Click on the image below to see the code for references and pointers.
 >
-> <a href="../referencesAndPointers.cpp">![Alt text](img/image-4.png)</a>  ![Alt text](img/image-3.png)
+> <a href="./referencesAndPointers.cpp">![Alt text](img/image-4.png)</a>  ![Alt text](img/image-3.png)
 >
 >
